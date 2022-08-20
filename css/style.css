@@ -404,13 +404,13 @@ button:focus{
 @supports (-webkit-touch-callout: none) {
     .qt-background2{
         padding: 100px 0;
+        background: url(../img/home/dofe.jpg) no-repeat;
         background-size: 1587px 1340px;
         background-attachment: scroll;
         background-size: cover;
         background-position: center center;
         position: relative;
     }
-    
 }
 .qt-background2 p {
     font-size: 35px;
