@@ -369,7 +369,6 @@ button:focus{
 	background-position: center center;
 	position: relative;
     -webkit-background-position: center cover;
-    -webkit-background-attachment: scroll;
 }
 .qt-background p {
     font-size: 35px;
