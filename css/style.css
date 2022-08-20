@@ -901,9 +901,11 @@ button:focus{
 .page-breadcrumb {
     padding: 250px 0 150px;
     background: url(../img/header_centre.jpg) no-repeat;
-    background-attachment: fixed;
+    -webkit-background-size: 1587px 1340px;
     -webkit-background-attachment: scroll;
-    background-size: scroll;
+    -webkit-background-size: scroll;
+    background-attachment: fixed;
+    background-size: fixed;
     background-position: center center;
     position: relative;
 }
