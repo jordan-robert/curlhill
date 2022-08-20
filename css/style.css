@@ -367,10 +367,6 @@ button:focus{
 	background-position: center center;
 	position: relative;
     -webkit-background: url(../img/home/dofe.jpg) no-repeat;
-    -webkit-background-size: 1587px 1340px;
-    -webkit-background-attachment: scroll;
-    -webkit-background-size: cover;
-    -webkit-background-position: center center;
     -webkit-position: relative;
 }
 .qt-background p {
