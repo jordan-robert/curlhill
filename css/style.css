@@ -368,11 +368,6 @@ button:focus{
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
-	-webkit-background-size: cover;
-	-webkit-padding: 100px 0;
-	-webkit-background-attachment: fixed;
-	-webkit-background-position: center center;
-	-webkit-position: relative;
 }
 .qt-background p {
     font-size: 35px;
