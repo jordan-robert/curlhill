@@ -362,6 +362,7 @@ button:focus{
 .qt-background{
     -webkit-background-size: 1587px 1340px;
     -webkit-background-attachment: scroll;
+    -webkit-background-position: center cover;
 	background: url(../img/home/firepit.jpg) no-repeat;
 	background-size: fixed;
 	padding: 100px 0;
