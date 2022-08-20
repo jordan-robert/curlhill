@@ -435,6 +435,17 @@ button:focus{
 	background-position: center center;
 	position: relative;
 }
+@supports (-webkit-touch-callout: none) {
+    .qt-background3{
+        padding: 100px 0;
+        background: url(../img/campsite/group_photo.jpg) no-repeat;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+    }
+}
 .qt-background3 p {
     font-size: 35px;
     font-weight: 300;
@@ -457,6 +468,17 @@ button:focus{
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
+}
+@supports (-webkit-touch-callout: none) {
+    .qt-background4{
+        padding: 100px 0;
+        background: url(../img/centre/view.jpg) no-repeat;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+    }
 }
 .qt-background4 p {
     font-size: 35px;
@@ -481,6 +503,17 @@ button:focus{
 	background-position: center center;
 	position: relative;
 }
+@supports (-webkit-touch-callout: none) {
+    .qt-background5{
+        padding: 100px 0;
+        background: url(../img/centre/skyview.jpg) no-repeat;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+    }
+}
 .qt-background5 p {
     font-size: 35px;
     font-weight: 300;
@@ -502,6 +535,17 @@ button:focus{
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
+}
+@supports (-webkit-touch-callout: none) {
+    .qt-background6{
+        padding: 100px 0;
+        background: url(../img/campsite/bulding_toilet_block.jpg) no-repeat;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+    }
 }
 .qt-background6 p {
     font-size: 35px;
