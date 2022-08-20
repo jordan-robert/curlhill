@@ -376,10 +376,10 @@ button:focus{
         background-position: center center;
         position: relative;
     }
+}
 @supports (-webkit-touch-callout: none) {
     .qt-background2{
         padding: 100px 0;
-        background: url(../img/home/firepit.jpg) no-repeat;
         background-size: 1587px 1340px;
         background-attachment: scroll;
         background-size: cover;
