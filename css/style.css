@@ -888,7 +888,8 @@ button:focus{
     padding: 250px 0 150px;
     background: url(../img/campsite/top_large_camping.jpg) no-repeat;
     -webkit-background-size: 1587px 1340px;
-    background-attachment: fixed;
+    -webkit-background-attachment: scroll;
+    background-attachment: scroll;
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -901,7 +902,8 @@ button:focus{
     padding: 250px 0 150px;
     background: url(../img/header_centre.jpg) no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    -webkit-background-attachment: scroll;
+    background-size: scroll;
     background-position: center center;
     position: relative;
 }
