@@ -230,6 +230,7 @@ button:focus{
 }
 .cover-slides .container{
 	height: 100%;
+    width: 100%;
 	position: relative;
 	z-index: 2;
 }
@@ -810,11 +811,12 @@ button:focus{
 	background-attachment: scroll;
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
-	background-origin: initial;
-	background-position: center center;
-	background-repeat: no-repeat;
-	background-size: cover;
-	position: relative;
+    -webkit-background-size: 1587px 1340px;
+    -webkit-background-attachment: scroll;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
 }
 .bg-f::before {
     background: #010101;
