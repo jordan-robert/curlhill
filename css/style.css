@@ -358,13 +358,6 @@ button:focus{
     QT
 -------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------
-    QT
--------------------------------------------------------------------*/
-
-/*------------------------------------------------------------------
-    QT
--------------------------------------------------------------------*/
 .qt-background{
 	background: url(../img/home/firepit.jpg) no-repeat;
 	background-size: fixed;
@@ -372,7 +365,7 @@ button:focus{
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
-    -webkit-background-position: center cover;
+    -webkit-background-attachment: scroll;
 }
 .qt-background p {
     font-size: 35px;
