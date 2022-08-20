@@ -887,6 +887,7 @@ button:focus{
 .page-breadcrumb-campsite {
     padding: 250px 0 150px;
     background: url(../img/campsite/top_large_camping.jpg) no-repeat;
+    -webkit-background-size: 1587px 1340px;
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
