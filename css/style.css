@@ -368,7 +368,7 @@ button:focus{
 }
 @supports (-webkit-touch-callout: none) {
     .qt-background{
-        padding: 250px 0 150px;
+        padding: 100px 0;
         background: url(../img/home/firepit.jpg) no-repeat;
         background-size: 1587px 1340px;
         background-attachment: scroll;
@@ -376,8 +376,9 @@ button:focus{
         background-position: center center;
         position: relative;
     }
-.qt-background2{
-        padding: 250px 0 150px;
+    .qt-background2{
+        padding: 100px 0;
+        background-size: 1587px 1340px;
         background: url(../img/home/dofe.jpg) no-repeat;
         background-attachment: scroll;
         background-size: cover;
