@@ -375,7 +375,7 @@ button:focus{
         background-size: cover;
         background-position: center center;
         position: relative;
-}
+    }
 .qt-background2{
         padding: 250px 0 150px;
         background: url(../img/home/dofe.jpg) no-repeat;
@@ -383,7 +383,7 @@ button:focus{
         background-size: cover;
         background-position: center center;
         position: relative;
-
+    }
     
 }
 .qt-background p {
