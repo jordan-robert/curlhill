@@ -363,11 +363,11 @@ button:focus{
     -webkit-background-size: 1587px 1340px;
     -webkit-background-attachment: scroll;
 	background: url(../img/home/firepit.jpg) no-repeat;
-	background-size: scroll;
+	background-size: fixed;
 	padding: 100px 0;
 	background-attachment: fixed;
 	background-position: center center;
-	position: scroll;
+	position: relative;
 }
 .qt-background p {
     font-size: 35px;
