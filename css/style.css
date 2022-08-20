@@ -377,17 +377,6 @@ button:focus{
         position: relative;
     }
 }
-@supports (-webkit-touch-callout: none) {
-    .qt-background2{
-        padding: 100px 0;
-        background-size: 1587px 1340px;
-        background-attachment: scroll;
-        background-size: cover;
-        background-position: center center;
-        position: relative;
-    }
-    
-}
 .qt-background p {
     font-size: 35px;
     font-weight: 300;
@@ -411,6 +400,17 @@ button:focus{
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
+}
+@supports (-webkit-touch-callout: none) {
+    .qt-background2{
+        padding: 100px 0;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+    }
+    
 }
 .qt-background2 p {
     font-size: 35px;
