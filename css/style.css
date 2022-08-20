@@ -889,7 +889,7 @@ button:focus{
     background: url(../img/campsite/top_large_camping.jpg) no-repeat;
     -webkit-background-size: 1587px 1340px;
     -webkit-background-attachment: scroll;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -903,12 +903,11 @@ button:focus{
     background: url(../img/header_centre.jpg) no-repeat;
     -webkit-background-size: 1587px 1340px;
     -webkit-background-attachment: scroll;
-    -webkit-background-size: scroll;
     background-attachment: fixed;
-    background-size: fixed;
+    background-size: cover;
     background-position: center center;
     position: relative;
-}
+} 
 .all-page-title .container{
 	position: relative;
 	z-index: 2;
