@@ -972,7 +972,7 @@ button:focus{
 	z-index: 2;
 }
 .all-page-title::before{
-	background: #010101;
+	background: #01010171;
 	content: "";
 	height: 100%;
 	left: 0;
