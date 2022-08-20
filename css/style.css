@@ -362,11 +362,16 @@ button:focus{
 .qt-background{
 	background: url(../img/home/firepit.jpg) no-repeat;
 	background-size: cover;
-    -webkit-background-size: auto;
 	padding: 100px 0;
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
+    -webkit-background: url(../img/home/dofe.jpg) no-repeat;
+	-webkit-background-size: cover;
+	-webkit-padding: 100px 0;
+	-webkit-background-attachment: fixed;
+	-webkit-background-position: center center;
+	-webkit-position: relative;
 }
 .qt-background p {
     font-size: 35px;
