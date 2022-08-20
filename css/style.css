@@ -360,12 +360,24 @@ button:focus{
 
 .qt-background{
 	background: url(../img/home/firepit.jpg) no-repeat;
-	background-size: fixed;
+	background-size: cover;
 	padding: 100px 0;
 	background-attachment: fixed;
 	background-position: center center;
 	position: relative;
-    -webkit-background-attachment: scroll;
+}
+@supports (-webkit-touch-callout: none) {
+    .qt-background{
+        padding: 250px 0 150px;
+        background: url(../img/campsite/top_large_camping.jpg) no-repeat;
+        background-size: 1587px 1340px;
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+        position: relative;
+} 
+
+    
 }
 .qt-background p {
     font-size: 35px;
