@@ -367,7 +367,7 @@ button:focus{
 	padding: 100px 0;
 	background-attachment: fixed;
 	background-position: center center;
-	position: relative;
+	position: scroll;
 }
 .qt-background p {
     font-size: 35px;
