@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.wharfedalescouts.org.uk/curlyhill/sitemap.xml
