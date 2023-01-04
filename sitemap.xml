@@ -5,19 +5,19 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
       <loc>https://www.wharfedalescouts.org.uk/curlyhill/index.html</loc>
       <lastmod>2022-07-26T13:04:14+01:00</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
+      <priority>0.8</priority>
    </url>
    <url>
       <loc>https://www.wharfedalescouts.org.uk/curlyhill/centre.html</loc>
       <lastmod>2022-07-26T13:04:14+01:00</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
+      <priority>0.7</priority>
    </url>
    <url>
       <loc>https://www.wharfedalescouts.org.uk/curlyhill/campsite.html</loc>
       <lastmod>2022-05-26T13:04:14+01:00</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
+      <priority>0.6</priority>
    </url>
    <url>
       <loc>https://www.wharfedalescouts.org.uk/curlyhill/booking.html</loc>
@@ -29,6 +29,13 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
       <loc>https://www.wharfedalescouts.org.uk/curlyhill/contact.html</loc>
       <lastmod>2022-05-26T13:04:14+01:00</lastmod>
       <changefreq>monthly</changefreq>
-      <priority>0.5</priority>
+      <priority>0.4</priority>
    </url>
+      <url>
+      <loc>https://www.wharfedalescouts.org.uk/curlyhill/activities.html</loc>
+      <lastmod>2022-05-26T13:04:14+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.4</priority>
+   </url>
+   
 </urlset>
