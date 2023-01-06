@@ -1619,16 +1619,15 @@ tr:nth-child(even) {
     .slides-navigation {display:none;}
     .img-fluid {display:none;}
     .m-b-40 {
-        letter-spacing: 0 ;
-        text-align: center;
-        font-size: 18px;
-        font-weight: normal;
-        position: relative;
-        padding: 0 0 10px 0;
-        font-weight: normal;
-        line-height: 120%;
-        
-    }
+        letter-spacing: 0 !important;
+        text-align: center !important;
+        font-size: 18px !important;
+        font-weight: normal !important;
+        position: relative !important;
+        padding: 0 0 10px 0 !important;
+        font-weight: normal !important;
+        line-height: 120% !important;}
 }
+
 
 
